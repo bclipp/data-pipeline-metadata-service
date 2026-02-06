@@ -1,13 +1,13 @@
-package com.yourcompany.pipeline_metadata_service;
+package com.example.datapipelinemetadata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PipelineMetadataServiceApplication {
+public class DatapipelinemetadataApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PipelineMetadataServiceApplication.class, args);
+		SpringApplication.run(DatapipelinemetadataApplication.class, args);
 	}
 
 }

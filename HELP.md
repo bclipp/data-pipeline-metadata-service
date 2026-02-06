@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.yourcompany.pipeline-metadata-service' is invalid and this project uses 'com.yourcompany.pipeline_metadata_service' instead.
-
 # Getting Started
 
 ### Reference Documentation

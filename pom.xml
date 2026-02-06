@@ -8,10 +8,10 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.yourcompany</groupId>
-	<artifactId>pipeline-metadata-service</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>datapipelinemetadata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pipeline-metadata-service</name>
+	<name>datapipelinemetadata</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

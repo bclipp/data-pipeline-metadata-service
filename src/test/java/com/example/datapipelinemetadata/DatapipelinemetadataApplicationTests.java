@@ -1,10 +1,10 @@
-package com.yourcompany.pipeline_metadata_service;
+package com.example.datapipelinemetadata;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PipelineMetadataServiceApplicationTests {
+class DatapipelinemetadataApplicationTests {
 
 	@Test
 	void contextLoads() {
