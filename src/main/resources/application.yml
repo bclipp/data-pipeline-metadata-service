@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+app:
+  name: data-pipeline-metadata-service
+  version: 0.1.0
+  environment: local
