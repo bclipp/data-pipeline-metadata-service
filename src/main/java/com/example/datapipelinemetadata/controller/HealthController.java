@@ -24,11 +24,6 @@ public class HealthController {
     public String version() {
         return appName + " " + appVersion + " (" + appEnvironment + ")";
     }
-
-    // expose new endpoint for "workout"
-    @GetMapping("/version")
-    public String workout() {
-        return "Get after it!";
-    }
+    
 
 }
